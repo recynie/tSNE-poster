@@ -1,4 +1,4 @@
-# t-SNE pster
+# t-SNE poster
 Some of our figures displayed in our poster are stored in this repository, together with our codes.
 
 source of the notebook `visualizing-kannada-mnist-with-t-sne.ipynb` is [here on kaggle](https://www.kaggle.com/code/parulpandey/visualizing-kannada-mnist-with-t-sne)
