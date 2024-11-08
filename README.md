@@ -4,8 +4,10 @@ Some of our figures displayed in our poster are stored in this repository, toget
 ## Figures in Poster
 Kannada MNIST data set with t-SNE and PCA_t-SNE:
 ![Kannada MNIST data set with t-SNE and PCA_t-SNE](high_resolution_fig/tSNE%20and%20PCA_tSNE.png)
+MNIST data set with t-SNE and PCA_t-SNE:
+![MNIST data set with t-SNE and PCA_t-SNE](altair/tSNE%20and%20PCA_tSNE.png)
 
-MNIST (0~4 digits) with t-SNE:
+MNIST (0~4 digits) with t-SNE (the same in poster):
 ![MNIST (0~4 digits) with t-SNE](altair/tSNE_4digits.png)
 
 ## References
